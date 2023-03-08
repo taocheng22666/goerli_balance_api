@@ -7,6 +7,7 @@
 ### 2 . 替換api.py
 ##### 1 . 將第九行的 api_key 更換成您在 Etherscan 上申請的 API Key
 ##### 2 . 將第十二行的 wallets 替換成您要查詢的錢包地址
-### 3 . 相關鏈結
+### 3 . Enjoy!
+### 4 . 相關鏈結
 [Etherscan APIs](https://etherscan.io/apis)
 [Etherscan](https://etherscan.io)
