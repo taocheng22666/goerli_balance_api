@@ -1,6 +1,6 @@
-# Goerli測試網錢包餘額批量查詢腳本
+# Goerli測試網錢包餘額批量查詢工具
 ##### 這是一個小工具，可以批量查詢Goerli測試網絡上以太坊錢包地址的餘額，並導出Excel文件。
-This is a small tool that can batch query the balance of Ethereum wallet addresses 
+This is a tool that can batch query the balance of Ethereum wallet addresses 
 on the Goerli test network and export the results to an Excel file.
 
 ## 使用方法  Usage
