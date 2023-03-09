@@ -13,7 +13,7 @@ pip install openpyxl
 ### 2 . 開始 Start
 ##### 1 . 將 api.py 中的 ETHERSCAN_API_KEY 更換成您在 Etherscan 上申請的 API Key
 1. Replace the ETHERSCAN_API_KEY in api.py with the API Key you applied for on Etherscan.
-##### 2 . 接著將您要查詢的錢包地址輸入 wallets.txt 
+##### 2 . 將您要查詢的錢包地址輸入 wallets.txt 
 2. Enter the wallet addresses you want to query into wallets.txt
 ##### 3 . 查詢的結果會輸出在工具運行的同個路徑下
 3. The query results will be output in the same path as the tool is running.
