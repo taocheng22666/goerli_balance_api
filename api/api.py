@@ -32,7 +32,7 @@ ws.append(["Address", "Balance"])
 for wallet in wallets:
     params["address"] = wallet
     response = requests.get(url, params=params).json()
-    balance = int(response["result"]) / 10 ** 18
+    balance = int(response["result"]) / 10 ** 18     # 因為 API 返回的 result 是 wei 單位，所以要解析轉換成正常以太幣數量 (10^18)
     ws.append([wallet, balance])
 
 # 將結果保存為Excel文件
