@@ -5,7 +5,7 @@ import requests
 import openpyxl
 
 # 輸入Etherscan API密鑰
-ETHERSCAN_API_KEY = "這裡更換成您自的的API Key"
+ETHERSCAN_API_KEY = "這裡更換成您自己的API Key"
 
 # 載入錢包地址
 with open("wallets.txt") as f:
