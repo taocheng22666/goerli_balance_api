@@ -4,7 +4,7 @@ This is a tool that can batch query the balance of Ethereum wallet addresses
 on the Goerli test network and export the results to an Excel file.
 
 ## 使用方法  Usage
-### 1 . 安裝依賴 Prerequisites
+### 1 . 安裝套件 Install Package
 ```text
 pip install requests
 pip install openpyxl
